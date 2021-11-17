@@ -1,0 +1,88 @@
+body{
+    background-image:url(https://fondosmil.com/fondo/70371.jpg);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin: 0;
+    padding: 0;
+}
+
+.todo{
+    height: 23%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    background-color: rgb(255, 248, 248);
+    box-shadow: 0 0 15px 0 rgb(254, 255, 255);
+    margin-top: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 4%;
+    border-radius: 10px;
+    padding: 45px;
+    font-size: 23px;
+    
+   
+    
+}
+
+.titulo{
+    text-align: center;
+     font-size: 35px;
+     color: rgb(0, 0, 0);
+     
+     border-radius: 5px;
+    
+}
+
+.cajas{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    text-align: justify;
+    margin-left: 5%;
+    border-color: black;
+    
+}
+input{
+    margin:5px;
+    display: block;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: 25px;
+    color: rgb(14, 14, 13);
+    border-color: rgb(97, 93, 93);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+}
+
+.desplegable{
+    margin:5px;
+    display: block;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 25px;
+    color: rgb(14, 14, 13);
+    border-color: rgb(97, 93, 93);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.Aliner_boton1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botonhp{
+    background-color: black;
+    width: 30%;
+    height: 15%;
+    border-radius: 15px;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
